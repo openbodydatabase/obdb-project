@@ -1,2 +1,1 @@
-# OBDBProject
-The Open Body Database Project
+# The Open Body Database Project
