@@ -1,7 +1,7 @@
 # The Open Body Database Project
 Archiving and Sharing Human Body Data for Design and Research
 
-#Welcome!
+# Welcome!
 
 Thank you for visiting The Open Body Database (OBDB) project repository.
 This document (the README file) is a hub to give you some information about the project. Jump straight to one of the sections below, or just scroll down to find out more.
