@@ -6,23 +6,24 @@ Archiving and Sharing Human Body Data for Design and Research
 Thank you for visiting The Open Body Database (OBDB) project repository.
 This document (the README file) is a hub to give you some information about the project. Jump straight to one of the sections below, or just scroll down to find out more.
 
-What are we doing? (And why?)
-Who are we?
-What do we need?
-How can you get involved?
-Get in touch
-Find out more
-Understand the jargon
-What are we doing?
+- [What are we doing?](https://github.com/openbodydatabase/obdb-project#what-are-we-doing)
+- [Who are we?](https://github.com/openbodydatabase/obdb-project#who-are-we)
+- [What do we need?](https://github.com/openbodydatabase/obdb-project#what-do-we-need)
+- How can you get involved?
+- Get in touch
+- Find out more
+- Glossary
 
-# The problems
+# What are we doing?
+
+## The problems
 Garment design is not based on real human bodies
 No human body data repository exists for designers and researchers looking to work with real human body forms
 Sharing body data is complex due to issues of privacy
 
 The garment industry utilizes unproportional design sketches and standard pattern grading and sizing to continue the mass production value chain. Access to body database(s) can be expensive and restricted, and therefore not user friendly to designers, researchers or students wishing to access real human body data and shapes.   
 
-# The solution
+## The solution
 The Open Body Database will:
 Create and Open Body Database where anyone can access real human body data
 Crete guides for anyone to contribute real body data
