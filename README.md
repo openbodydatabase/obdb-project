@@ -16,6 +16,10 @@ This document (the README file) is a hub to give you some information about the 
 
 # What are we doing?
 
+We are building The Open Body Database, an open-source platform for archiving and sharing human body data, to foster design and research based on real human bodies.
+
+We are working open because we believe the human body belongs to every unique human and such a resource must be built from an open community with body positivity outlook and acceptance of all preferences.
+
 ## The problems
 Garment design is not based on real human bodies
 No human body data repository exists for designers and researchers looking to work with real human body forms
