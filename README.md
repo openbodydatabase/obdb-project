@@ -41,3 +41,5 @@ The development of the database is mentored by the Open Leaders Cohort C-McCohor
 
 You! Whomever you are and in whatever way you can help! 
 We need expertise in system architecture, data contribution, data schemas, user experience design, database maintenance, documentation, technical writing and project management. We’d love continuous feedback, notes and thoughts as we continue building the Open Body Database. 
+
+This README has been adapted / inpired by the [STEMM Role Models README](https://github.com/KirstieJane/STEMMRoleModels).
